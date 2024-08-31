@@ -2154,3 +2154,8 @@
 {"level":"info","message":"⌛ Building environment","timeElapsed":357,"timestamp":"2024-08-31T19:43:43.130Z"}
 {"level":"info","message":"Removing diagnostics from \\Users\\maria\\OneDrive\\Documentos\\tecnicaturaEnProgramacion\\8CUATRIMESTRE2024\\PROYECTOSWOLLOK\\presentacion_Personal-2024s2-AlpernMariana\\presentación.wlk","timestamp":"2024-08-31T19:43:43.254Z"}
 {"level":"info","message":"onRequest - WORKSPACE_URI:file:///c%3A/Users/maria/OneDrive/Documentos/tecnicaturaEnProgramacion/8CUATRIMESTRE2024/PROYECTOSWOLLOK/presentacion_Personal-2024s2-AlpernMariana","timestamp":"2024-08-31T19:43:43.267Z"}
+{"level":"info","message":"onRequest - STRONG_FILES_CHANGED:c:\\Users\\maria\\OneDrive\\Documentos\\tecnicaturaEnProgramacion\\8CUATRIMESTRE2024\\PROYECTOSWOLLOK\\presentacion_Personal-2024s2-AlpernMariana\\presentación.md","timestamp":"2024-08-31T19:45:57.777Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":416,"timestamp":"2024-08-31T19:45:58.195Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":232,"timestamp":"2024-08-31T19:45:58.429Z"}
+{"level":"info","message":"onRequest - WORKSPACE_URI:file:///c%3A/Users/maria/OneDrive/Documentos/tecnicaturaEnProgramacion/8CUATRIMESTRE2024/PROYECTOSWOLLOK/presentacion_Personal-2024s2-AlpernMariana","timestamp":"2024-08-31T19:45:58.519Z"}
+{"level":"info","message":"Removing diagnostics from \\Users\\maria\\OneDrive\\Documentos\\tecnicaturaEnProgramacion\\8CUATRIMESTRE2024\\PROYECTOSWOLLOK\\presentacion_Personal-2024s2-AlpernMariana\\presentación.md","timestamp":"2024-08-31T19:45:58.541Z"}
