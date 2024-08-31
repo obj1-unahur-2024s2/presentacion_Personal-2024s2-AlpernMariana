@@ -1,6 +1,7 @@
 ![Logo UNAHUR](./assets/yo.png)
 Hola, soy
-#MARIANA LUCÍA ALPERN y soy estudiante de la tecnicatura
+# MARIANA LUCÍA ALPERN 
+y soy estudiante de la tecnicatura
 en programación desde el 2021. 
 ```
 "LA TERCERA ES LA VENCIDA"
